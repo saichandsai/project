@@ -1,6 +1,6 @@
 <project>
-<artifactID> myjavaproject </artifactID>
-<groupID> org.sai </groupID>
+<artifactId> myjavaproject </artifactId>
+<groupId> org.sai </groupId>
 <modelVersion> 4.0.0 </modelVersion>
 <version> 1.0.0 </version>
 <packaging> war </packaging>
